@@ -1,6 +1,15 @@
 # OpenGL-Sorting-Algorithm
 Bubble sort visualizer programmed in OpenGL 3.3 _(Using GLAD and GLFW 3.3)_
 
+<br>
+
+<!-- gif preview of app -->
+<div align="center">
+  <img src="./sortingAlgorithm.gif" alt="Sorting Algorithm Preview" width=500></img>
+</div>
+
+<br>
+
 Not much to say, it looks satisfying i guess. I made this because i saw others do it on the internet and also i wanted to exercise some OpenGL skills since a the time of this README's creation, i have just started learning OpenGL a few weeks back.
 
 Build with `./bin/Makefile` for your system, `.exe` is already included because i worked on this on a windows machine.
